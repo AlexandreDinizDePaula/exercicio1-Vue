@@ -7,6 +7,15 @@
         <a>Topic 3</a>
         <a>Topic 4</a>
 
-        <input>
     </div>
 </template>
+
+<style scoped>
+    h1{
+        color: red;
+    }
+    a{
+        color: blue;
+    }
+
+</style>
